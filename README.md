@@ -8,7 +8,7 @@ pip2 install mechanize
 
 pip2 install requests 
 
-git clone https://github.com/wapbaru/botkom-facebokk
+git clone https://github.com/wapbaru/botkom-facebok
 
 cd komen
 
