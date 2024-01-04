@@ -3,7 +3,7 @@
 import json , sys , hashlib , os , time , marshal, getpass
 ###################################################################
 '''
-     Jangan Direcode ya bosku , tinggal make apa susahnya sih
+     Tinggal pake
 '''
 ###################################################################
 #                             COLOR
@@ -73,12 +73,12 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Kunyim  'termux.id'
+    Author     wapbaru  'wapbaru.com'
     Name       OSIF 'Open Source Information Facebook'
-    CodeName   termux.id
+    CodeName   wapbaru.com
     version    full version
-    Date       16/05/2018 09:35:12
-    Website    http://termux.id
+    Date       16/05/2023 09:35:12
+    Website    http://wapbaru.com
     
 
 * if you find any errors or problems , please contact
