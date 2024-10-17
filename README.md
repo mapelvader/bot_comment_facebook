@@ -9,7 +9,7 @@ pip2 install mechanize
 
 pip2 install requests 
 
-git clone https://github.com/wapbaru/botkom-facebook
+git clone https://github.com/mapelvader/bot_comment_facebook
 
 cd botkom-facebook
 
