@@ -73,12 +73,12 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     wapbaru  'wapbaru.com'
+    Author     mapelvader 'mapelvader'
     Name       OSIF 'Open Source Information Facebook'
-    CodeName   wapbaru.com
+    CodeName   mapelvader.pages.dev 
     version    full version
     Date       16/05/2023 09:35:12
-    Website    http://wapbaru.com
+    Website    http://mapelvader.pages.dev
     
 
 * if you find any errors or problems , please contact
