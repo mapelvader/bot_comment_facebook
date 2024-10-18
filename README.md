@@ -1,3 +1,4 @@
+```json
 **installasi**
 apt update && apt upgrade
 pkg install git
@@ -23,3 +24,4 @@ bot	 membuka f bot
 clear	membersihkan terminal
 about	menampilkan informasi tentang program ini
 exit keluar program
+```
