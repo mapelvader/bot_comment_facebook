@@ -1,4 +1,4 @@
-```json
+```
 **installasi**
 apt update && apt upgrade
 pkg install git
